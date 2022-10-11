@@ -1,0 +1,1 @@
+This is a repo that takes monthly finance inforation and stores in a cloud No SQL database 
